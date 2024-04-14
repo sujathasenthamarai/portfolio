@@ -1,0 +1,59 @@
+#topbar{
+    background-color: white;
+    height: 30px;
+    width: 100%;
+    margin-left: 60px;
+}
+header h2{
+    float: left;
+    color: blueviolet;
+    margin-left: 180px;
+    margin-top: 9px;
+    margin-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul{
+    float: right;
+}
+ul li{
+    display: inline;
+    margin-right: 15px;
+    margin-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul li a{
+    color: blueviolet;
+}
+section{
+    background-image: url(imagehny.1.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 95vh;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.content{
+    margin-left: 12vw;
+    width: 40vw;
+    position: relative;
+    top: 25vh;
+    line-height: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.content h3{
+    padding-left: 0px;
+}
+p{
+    line-height: 20px;
+}
+button{
+    height: 35px;
+    width: 175px;
+    margin-top: 30px;
+    font-weight: bolder;
+    font-size: 17px;
+    background-color: aqua;
+    top: 25px;
+    border-width: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
